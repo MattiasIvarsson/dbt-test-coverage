@@ -1,5 +1,8 @@
 # dbt-test-coverage
-cli tool for showing test coverage in [dbt](https://www.getdbt.com) projects.
+How many models does have dbt test?
+
+Cli tool for showing test coverage in [dbt](https://www.getdbt.com) projects.
+
 
 Tested with dbt 0.15 and newer!
 
