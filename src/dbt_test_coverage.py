@@ -140,7 +140,6 @@ def get_sources(schema):
             f" Tests: {(source_results_agg[1])} ({source_results_agg[2]}%)"
         )
         print(" ")
-
     except:
         None
 
